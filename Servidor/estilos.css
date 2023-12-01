@@ -1,0 +1,24 @@
+body{
+
+    background: green;
+    text-align: center;
+}
+button:hover{
+    background: red;
+}
+
+.ventana{
+    background: purple;/*Color de texto*/
+    border: 5px solid gray; /*Tamaño,tipo,color*/
+    box-shadow: 5px 5px 5px #34495e; /*Es el sombreado, y los valores se de x, y, z, va tamaños y color*/
+    width: 350px; /*Define el tamaño del cuadro*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.Tamaño{
+    padding: 10px; /*Tamaño del cuadro de respuesta*/
+    text-align: center; /*En que parte del cuadro se pone la respuesta*/
+
+}

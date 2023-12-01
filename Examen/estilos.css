@@ -1,0 +1,15 @@
+table, th, td{
+    border: 2px solid black;
+}
+
+.Tamaño{
+    
+    width: 250px; /*Define el tamaño del cuadro*/
+    /*padding: 20px; /*Tamaño del cuadro de respuesta*/
+    text-align: center; /*En que parte del cuadro se pone la respuesta*/
+
+}
+
+.Tamaño1{
+    text-align:left;
+}
